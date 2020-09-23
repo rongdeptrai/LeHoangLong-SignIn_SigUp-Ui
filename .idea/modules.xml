@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProfileUI.iml" filepath="$PROJECT_DIR$/ProfileUI.iml" group="ProfileUI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-profile-ui-master.iml" filepath="$PROJECT_DIR$/.idea/modules/android-profile-ui-master.iml" group="android-profile-ui-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-profile-ui-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-profile-ui-master-app.iml" group="android-profile-ui-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ProfileUI/app" />
+    </modules>
+  </component>
+</project>
